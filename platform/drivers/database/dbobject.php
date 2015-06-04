@@ -1,5 +1,16 @@
 <?php
 
+  /**
+   * Родительский класс для объекта в базе данных
+   *
+   *
+   * @package default
+   * @author cj
+   * @version 1
+   * @path platform/drivers/database/
+   *
+   **/
+
   class DBObject implements IDBObject {
 
     private $sqlQueryText = ''; // текст SQL запроса
