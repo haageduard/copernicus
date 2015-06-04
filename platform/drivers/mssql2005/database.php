@@ -11,7 +11,7 @@
    * @package default
    * @author cj
    * @version 1
-   * @path platform/drivers/database/mssql2005/
+   * @path platform/drivers/mssql2005/
    *
    **/
 
