@@ -8,6 +8,7 @@
     
     // Return JSON array
     public function getModel($modelId) {
+      $model = $mbusClient->getModel($modelId);
       return $model;
     }
     
