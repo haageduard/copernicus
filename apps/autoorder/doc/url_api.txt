@@ -1,0 +1,6 @@
+http://127.0.0.1/copernicus/apps/948b0618-e86b-4094-8885-334241c7f1fd/getOrders??access_token=
+http://127.0.0.1/copernicus/apps/948b0618-e86b-4094-8885-334241c7f1fd/getOrder??access_token=&id=
+http://127.0.0.1/copernicus/apps/948b0618-e86b-4094-8885-334241c7f1fd/confirmOrder??access_token=&id=
+http://127.0.0.1/copernicus/apps/948b0618-e86b-4094-8885-334241c7f1fd/rejectOrder?access_token=&id=
+http://127.0.0.1/copernicus/apps/948b0618-e86b-4094-8885-334241c7f1fd/confirmOrder??access_token=&id=
+http://127.0.0.1/copernicus/apps/948b0618-e86b-4094-8885-334241c7f1fd/printOrder?access_token=?&id=12313?form=?
