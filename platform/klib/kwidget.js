@@ -56,3 +56,6 @@ KWidget.prototype.setMargin = function(a, b, c, d) {
   this.setMarginBottom(c);
   this.setMarginRight(d);
 }
+
+KWidget.prototype.getPlugins = function() {
+}
