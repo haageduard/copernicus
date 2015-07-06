@@ -1,7 +1,7 @@
 Примеры:
 
 Получить список заказов
-http://127.0.0.1/copernicus/apps/948b0618-e86b-4094-8885-334241c7f1fd/getOrders?access_token=
+URL http://127.0.0.1/copernicus/apps/948b0618-e86b-4094-8885-334241c7f1fd/getOrders?access_token=
 
 Получить заказ
 http://127.0.0.1/copernicus/apps/948b0618-e86b-4094-8885-334241c7f1fd/getOrder?access_token=&id=
