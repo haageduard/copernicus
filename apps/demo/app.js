@@ -1,4 +1,5 @@
-function onStart() {
+/* Вызывается при создании приложения */
+function onCreate() {
   var demoView = findViewById('l');
   var tv1 = new KTextView();
   tv1.setText('Hello, world!');
@@ -7,5 +8,7 @@ function onStart() {
   demoView.addView(tv1);
 }
 
-function onStop(reason) {
+/* Вызывается при закрытии приложения */
+function onDestroy() {
 }
+
