@@ -2,6 +2,12 @@
   "id": "948b0618-e86b-4094-8885-334241c7f1fd",
   "title_en": "Demonstration of GUI library klib",
   "title_ru": "Демонстрация возможностей библиотеки графического интерфейса klib",
+  "views": [
+    {
+      "id": "daad5873-4ca6-4fdb-8f29-cc16df4e9ac3",
+      "name": "demo"
+    }
+  ],
   "user_permissions": [
     {
       "id": "7dd7d127-ebbd-45d1-abe3-83415e696584",
