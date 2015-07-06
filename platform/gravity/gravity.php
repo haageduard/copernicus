@@ -21,7 +21,7 @@
    * @package default
    * @author cj
    * @version 1
-   * @path platform/gravity/
+   * @file platform/gravity/gravity.php
    *
    **/
    
