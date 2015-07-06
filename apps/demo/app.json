@@ -1,5 +1,12 @@
 {
   "id": "948b0618-e86b-4094-8885-334241c7f1fd",
   "title_en": "Demonstration of GUI library klib",
-  "title_ru": "Демонстрация возможностей библиотеки графического интерфейса klib"
+  "title_ru": "Демонстрация возможностей библиотеки графического интерфейса klib",
+  "user_permissions": [
+    {
+      "id": "7dd7d127-ebbd-45d1-abe3-83415e696584",
+      "title_en": "Test access 1",
+      "title_ru": "Тестовое право доступа 1"
+    }
+  ]
 }
