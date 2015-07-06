@@ -1,5 +1,5 @@
 function KProgressDialog = function() {
-  var _progressValue = 0;
+  var _progressBarValue = 0;
   var _isProgressBarVisible = false;
   var _text = '';
   var _isCancelable = true;
@@ -9,8 +9,8 @@ KProgressDialog.prototype.showProgressBar(v) {
   _isProgressBarVisible = v;
 }
 
-KProgressDialog.prototype.setProgressValue(value) {
-  this._progressValue = value;
+KProgressDialog.prototype.setProgressBarValue(value) {
+  this._progressBarValue = value;
 }
 
 KProgressDialog.prototype.show = function() {
