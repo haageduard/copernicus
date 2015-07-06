@@ -11,7 +11,39 @@ function KWidget() {
   
 }
 
-KWidet.prototype.setPadding = function(a, b, c, d) {
+KWidget.prototype.setPaddingTop(a) {
+  this._paddingTop = a;
+}
+
+KWidget.prototype.setPaddingLeft(b) {
+  this._paddingLeft = b;
+}
+
+KWidget.prototype.setPaddingBottom(c) {
+  this._paddingBottom = c;
+}
+
+KWidget.prototype.setPaddingRight(d) {
+  this._paddingRight = d;
+}
+
+KWidget.prototype.setMarginTop(a) {
+  this._marginTop = a;
+}
+
+KWidget.prototype.setMarginLeft(b) {
+  this._marginLeft = b;
+}
+
+KWidget.prototype.setMarginBottom(c) {
+  this._marginBottom = c;
+}
+
+KWidget.prototype.setMarginRight(d) {
+  this._marginRight = d;
+}
+
+KWidget.prototype.setPadding = function(a, b, c, d) {
   this.setPaddingTop(a);
   this.setPaddingLeft(b);
   this.setPaddingBottom(c);
